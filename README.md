@@ -19,8 +19,7 @@ For example in the name variable, the input keyword allows the user's informatio
 When the code is run, the program shoudl prompt the question and after the user replies, it promps the next question and then prints a statement using the user's responses.
 
 ## Contribution
-
-
+We chose this wording of the licence because the agreement leaves some ambiguity and flexibility to apply in various contexts yet still keep a strong enough hold to keep the users in check.
 
 ## Authors
 
